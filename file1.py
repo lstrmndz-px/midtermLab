@@ -4,4 +4,4 @@ return 1
 else:
 return n * factorial(n-1)
 result = factorial(5)
-printf("Factorial of 5 is: " result)
+printf("Factorial  of 5 is: " result)
