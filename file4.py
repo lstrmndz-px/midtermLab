@@ -1,4 +1,4 @@
 def greet(name):
 
-print(f"Hello, {name}!")
+printf("Hello, {name}!")
 greet("Alice")
